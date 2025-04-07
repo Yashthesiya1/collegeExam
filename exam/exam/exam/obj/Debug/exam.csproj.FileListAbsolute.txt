@@ -1,0 +1,6 @@
+D:\exam\exam\bin\exam.dll.config
+D:\exam\exam\bin\exam.dll
+D:\exam\exam\bin\exam.pdb
+D:\exam\exam\obj\Debug\exam.csprojResolveAssemblyReference.cache
+D:\exam\exam\obj\Debug\exam.dll
+D:\exam\exam\obj\Debug\exam.pdb
